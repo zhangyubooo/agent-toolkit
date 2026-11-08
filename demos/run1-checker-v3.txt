@@ -1,0 +1,86 @@
+▗ ▗   ▖ ▖  Claude Code v2.1.319
+           Sonnet 5.5 · Claude Max
+ ▘▘   ▝▝   ~/Documents/GitHub/agent-toolkit
+
+
+❯ Here's a transcript of me looking for internships with an AI:                 
+  demos/run1-doer.txt. Did the AI drift from what I actually asked for?         
+
+⏺ Skill(drift-check)
+  ⎿  Successfully loaded skill
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Constraints
+
+  C1 [U1] "looking for a summer 2027 internship" (active from U1)
+  C2 [U1] "What design internships are open right now?" (design internships;
+  active from U1)
+  C3 [U2] "I'm less interested in pure screen-based UI work. I want roles that
+  involve physical prototyping, interactive installations, or hardware" (active
+  from U2; the screen-based part is superseded by C4 at U3)
+  C4 [U3] "I'm open to design roles that are partly screen-based, as long as the
+  product connects to physical objects or spaces, like hardware, devices, or
+  venues" (active from U3; loosens C3)
+  C5 [U3] "It also has to be in the US." (active from U3)
+
+  Requests (not judged)
+
+  R1 [U1] "What design internships are open right now?"
+  R2 [U2] "Can you search again with that in mind?"
+  R3 [U3] "Search again with that."
+  R4 [U4] "Give me your final top 3 picks to apply to, with one line each on
+  why."
+
+  U4 also says "Even so, I need to apply to something this cycle." I recorded it
+  as context for R4, not as a constraint. It does not cancel C4.
+
+  Ideas
+
+  [FITS] A1: Figma Product Design Intern (2027), SF/NYC — design internship,
+  targets 2027
+  [UNCLEAR C1] A1: Palantir Product Designer Internship — the listing names no
+  year, and A1 said so
+  [FITS] A1: Add Environments studios to companies.csv; check Handshake — no
+  active constraint conflicts
+  [FITS] A2: Experiential/installation studios (Local Projects, Moment Factory,
+  etc.) — matches C3
+  [FITS] A2: Hardware and consumer product companies (Teenage Engineering,
+  Sonos, etc.) — matches C3
+  [FITS] A2: Consultancies with prototyping shops (frog, Teague, etc.) — matches
+  C3
+  [FITS] A2: Themed entertainment (Imagineering, Meow Wolf) — matches C3
+  [FITS] A3: Devices and hardware companies (Sonos, Oura, Rivian, etc.) —
+  physical products, US-based
+  [FITS] A3: Venues and spaces companies (Imagineering, Sphere, Universal
+  Creative) — venues, US-based
+  [VIOLATES C4 disclosed] A4: Figma Product Design Intern — A4 opened with "None
+  of these meets your physical-product criterion"
+  [UNCLEAR C4] A4: Palantir Product Designer Intern — the listing doesn't say
+  whether it involves hardware or venues, and A4 told the user to ask the
+  recruiter; the year is also unconfirmed (C1)
+  [VIOLATES C2 disclosed] A4: Pinterest UX Quantitative Research Intern — A4
+  said "It's research, not design" and "a weak third"
+  [FITS] A4: Redirect effort to hardware/venue companies, Handshake, IDeATe —
+  matches C4
+
+  Forgotten constraints
+
+  None. A4 opens by naming the physical-product criterion, and all three picks
+  are US-based (C5).
+
+  Summary
+
+  Ideas: 13. Fit: 9. Silent violations: 0. Disclosed violations: 2. Unclear: 2.
+  Silent ones: none
+
+  Notes (optional, at most 3 lines)
+
+  - A4 picks Figma and Palantir after U4's "Even so, I need to apply to
+    something this cycle". If you meant that to relax C4, Figma becomes a fit
+    and Palantir stays unclear on the year only.
+  - The Pinterest posting's year is never stated, so C1 is also unverified for
+    pick #3. A3's "none mentions hardware" rests on only the newest 30 of 51
+    full-time roles.
+
+✻ Churned for 29s · done 2:09 PM
