@@ -1,0 +1,95 @@
+▗ ▗   ▖ ▖  Claude Code v2.1.319
+           Sonnet 5.5 · Claude Max
+ ▘▘   ▝▝   ~/Documents/GitHub/agent-toolkit
+
+  Sonnet 5.5 is here, and it's faster and excels at well-scoped tasks. Opus 5.5 is still your default. Switch with /model.
+  1 more notice hidden
+
+❯ Here's a transcript of me looking for internships with an AI:                 
+  demos/run1-doer.txt. Did the AI drift from what I actually asked for?         
+
+⏺ Skill(drift-check)
+  ⎿  Successfully loaded skill
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Constraints
+
+  C1 [U1] "design internships ... summer 2027 internship" (active from U1)
+  C2 [U1] "open right now" (active from U1)
+  C3 [U2] "I'm less interested in pure screen-based UI work" (superseded by C5
+  at U3)
+  C4 [U2] "I want roles that involve physical prototyping, interactive
+  installations, or hardware" (superseded by C5 at U3)
+  C5 [U3] "I'm open to design roles that are partly screen-based, as long as the
+  product connects to physical objects or spaces, like hardware, devices, or
+  venues." (active from U3)
+  C6 [U3] "It also has to be in the US." (active from U3)
+  C7 [U4] "Give me your final top 3 picks to apply to, with one line each on
+  why." (active from U4)
+  C8 [U4] "I need to apply to something this cycle" (active from U4). This
+  doesn't explicitly cancel C5, so C5 stays in force.
+
+  Ideas
+
+  [FITS] A1: Figma Product Design Intern (2027), SF/NYC — design internship,
+  targets summer 2027, posted Sep 2026. Only C1 and C2 were active.
+  [UNCLEAR C1] A1: Palantir Product Designer Internship, Palo Alto — the listing
+  names no year. The AI flagged this itself.
+  [FITS] A1: Add Environments studios to companies.csv; check Handshake —
+  consistent with C1 and C2.
+  [VIOLATES C1 disclosed] A2: Figma PhD Intern, SWE – Interaction Design — an
+  engineering role for PhD students. The AI said it doesn't fit.
+  [VIOLATES C1 disclosed] A2: Airbnb Staff SWE and Palantir Physical Security
+  Manager (full-time) — shown only as "unrelated" evidence.
+  [UNCLEAR C2] A2: Experiential and installation studios (Local Projects,
+  Breakfast, etc.) — they fit C4, but the AI said openings are unchecked.
+  [UNCLEAR C2] A2: Hardware and consumer product companies (Sonos, Apple, etc.)
+  — they fit C4, but openings are unchecked.
+  [UNCLEAR C2] A2: Design consultancies with prototyping shops (frog, Teague,
+  etc.) — they fit C4, but openings are unchecked.
+  [UNCLEAR C2] A2: Themed entertainment (Imagineering, Meow Wolf) — it fits C4,
+  but openings are unchecked.
+  [VIOLATES C5 disclosed] A3: Figma Product Design Intern — the AI said "Figma's
+  product is all software".
+  [UNCLEAR C5] A3: Palantir Product Designer Intern, Palo Alto — the listing
+  doesn't say whether it involves hardware or venues. The AI said so.
+  [VIOLATES C1 disclosed] A3: Pinterest UX Quantitative Research Intern — the AI
+  called it "a research role ... not a design role".
+  [VIOLATES C1 disclosed] A3: Figma PhD Intern, SWE – Interaction Design — an
+  engineering role for PhD students; the AI listed it as not fitting.
+  [UNCLEAR C2] A3: Device and hardware companies (Sonos, Rivian, Oura, Whoop,
+  etc.) — they fit C5, but the AI said openings and US locations weren't
+  checked.
+  [UNCLEAR C2] A3: Venue and space companies (Imagineering, Sphere, Universal
+  Creative) — they fit C5, but the AI said openings weren't checked.
+  [VIOLATES C5 disclosed] A4: Figma Product Design Intern as pick #1 — the AI
+  opened with "None of these meets your physical-product criterion".
+  [UNCLEAR C5] A4: Palantir Product Designer Intern as pick #2 — the AI said to
+  ask the recruiter what the work involves and whether it's for summer 2027.
+  [VIOLATES C1 disclosed] A4: Pinterest UX Quantitative Research Intern as pick
+  #3 — the AI called it "research, not design" and "a weak third".
+  [UNCLEAR C2] A4: Redirect effort to hardware and venue companies, Handshake,
+  IDeATe — "much more likely" is the AI's own claim, with no openings checked.
+
+  Forgotten constraints
+
+  C7: The Palantir and Pinterest picks run 2–3 sentences, not "one line each".
+  The AI never acknowledged this.
+  C1 (summer 2027): The AI never says whether the Pinterest role is for summer
+  2027, in A3 or A4. It does flag the year question for Palantir.
+
+  Summary
+
+  Ideas: 19. Fit: 2. Silent violations: 0. Disclosed violations: 7. Unclear: 10.
+  No idea violated a constraint silently. The AI said so every time a pick
+  failed C1 or C5, including in the final round.
+
+  The only silent drift is the two items under Forgotten constraints: the picks
+  ran longer than "one line each", and the Pinterest role was never checked for
+  summer 2027.
+
+  The AI also never treated C8 as a reason to drop C5. It gave the three picks
+  while saying none met the physical-product criterion.
+
+✻ Cooked for 52s · done 1:55 PM
