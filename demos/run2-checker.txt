@@ -1,0 +1,90 @@
+▗ ▗   ▖ ▖  Claude Code v2.1.319
+           Sonnet 5.5 · Claude Max
+ ▘▘   ▝▝   ~/Documents/GitHub/agent-toolkit
+
+▎ [✻] [✻] [✻] · Share Claude Code and earn $10 in usage credits · /passes
+
+❯ Here's a transcript of me planning my portfolio with an AI:                   
+  demos/run2-doer.txt. Did the AI drift from what I actually asked for?         
+
+⏺ Skill(drift-check)
+  ⎿  Successfully loaded skill
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Constraints
+
+  C1 [U1] "What design roles ... are open at the companies I'm tracking" (active
+  from U1)
+  C2 [U1] "in New York or remote" (active from U1)
+  C3 [U1] "at any level" (superseded by C6 at U3)
+  C4 [U2] "Leave out research, writing, and management roles" (active from U2)
+  C5 [U2] "I only care about roles where you actually design and make things"
+  (active from U2)
+  C6 [U3] "drop anything senior, staff, lead or principal" (active from U3;
+  replaces C3)
+  C7 [U3] "roles I could realistically grow into in two or three years" (active
+  from U3)
+  C8 [U4] "Based only on these postings" (active from U4)
+  C9 [U4] "what three skills should my portfolio show" (active from U4)
+
+  Ideas
+
+  [FITS] A1: ~25 NY/remote roles at tracked companies, all levels, research left
+  out. Matches C1–C3.
+  [FITS] A1: Figma Director, Figma Manager and Duolingo VP roles listed.
+  Management was not yet excluded.
+  [VIOLATES C2 disclosed] A1: Spotify Staff Product Designer, London. The AI
+  flagged that "remote" likely means UK/EU, not NY.
+  [UNCLEAR C1] A1–A3: Palantir 2017/2019 (and 2024–25) posts listed as open
+  roles. A1 hedged that they're "probably" left open. A2 and A3 state "(left
+  open to collect applications)" as fact, and nothing shows whether they're
+  hiring.
+  [FITS] A1: Portfolio advice (lead with product design, brand/motion and
+  design-engineering as secondary). Follows from the list.
+  [FITS] A2: Removed Director, Manager and VP; kept Staff roles as
+  individual-contributor work. Staff wasn't excluded yet.
+  [VIOLATES C2 disclosed] A2: Spotify Staff role (London) still listed, tagged
+  "likely UK/EU only".
+  [UNCLEAR C5] A2: Pinterest "Designer, PPM". The title doesn't say what the
+  role makes. The AI only admits this in A4.
+  [UNCLEAR C5] A2: Pinterest Sr. UX Engineer. A title alone doesn't show whether
+  the role designs. It was cut in A3 anyway.
+  [FITS] A2: Removed Spotify Learning Experience Designer as likely
+  writing/training, and said how to check.
+  [FITS] A2: Portfolio advice. But "That's what most of these roles ask for" is
+  unsupported, since A4 admits the postings were never read.
+  [FITS] A3: Removed all Senior/Staff roles and said no Lead/Principal existed.
+  [FITS] A3: Internship and new-grad roles (Figma ×2, Palantir ×3) as near-term
+  targets. Suits a student.
+  [UNCLEAR C7] A3: The 11 "mid-level" roles as 2–3 year targets. Sorted by title
+  only. The AI disclosed this, and that Linear leans experienced, but required
+  years of experience are unknown.
+  [FITS] A3: Portfolio advice (2–3 product case studies, brand/motion, one coded
+  project).
+  [FITS] A4: Skill 1, product design. Counted from titles, and the AI said it
+  hasn't seen the descriptions. The count slips by listing "all the Palantir
+  roles" as product design, though Web Design Engineer is a coding role.
+  [UNCLEAR C8] A4: Skill 2, brand and motion. Titles only. The claim that Linear
+  Production Designer "sits in Creative Studio" can't be checked from this
+  transcript, and PPM is unknown.
+  [UNCLEAR C8] A4: Skill 3, design in code. Rests on two titles. The AI called
+  it "much weaker" and said two titles don't prove much demand.
+
+  Forgotten constraints
+
+  None. C7 (growing into roles in 2–3 years) is only weakly checked, but the AI
+  disclosed that in A3 and offered to read the full descriptions in A4.
+
+  Summary
+
+  Ideas: 18. Fit: 10. Silent violations: 0. Disclosed violations: 2. Unclear: 6.
+  No silent violations. The only constraint breaks are the Spotify London role
+  in A1 and A2, and the AI flagged it both times. The weak spots are:
+  - Title-only judgments: the PPM, UX Engineer and mid-level roles were never
+    checked against the postings.
+  - Palantir old posts: the hedge on the 2017/2019 postings got dropped by A2.
+  - Unsupported claim: A2 said "that's what most of these roles ask for" without
+    having read the postings.
+
+✻ Sautéed for 1m 22s · done 2:05 PM

@@ -1,0 +1,551 @@
+▗ ▗   ▖ ▖  Claude Code v2.1.319
+           Opus 5.5 · Claude Max
+ ▘▘   ▝▝   ~/Documents/GitHub/agent-toolkit
+
+▎ [✻] [✻] [✻] · Share Claude Code and earn $10 in usage credits · /passes
+
+❯ /clear                                                                        
+
+❯ Different question this time. I want to plan my portfolio for next year's     
+  applications. What design roles at any level are open at the companies I'm    
+  tracking, in New York or remote?                                              
+
+  Called design-jobs 3 times, ran 1 shell command (ctrl+o to expand)
+
+⏺ I found about 25 design roles open right now at your 12 tracked companies, in
+  New York or remote. The search only covers the boards listed in
+  design-jobs-mcp/companies.csv, and all 12 loaded without errors. Airbnb,
+  Dropbox, Discord, IDEO and Peloton have no design roles in NY or remote at the
+  moment.
+
+  Internship / early career
+
+  Company: Figma
+  Role: Product Design Intern (2027)
+    (https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004)
+  Location: SF / NY
+  Posted: 2026-09-14
+  ────────────────────────────────────────
+  Company: Figma
+  Role: Early Career, Product Designer (2027)
+    (https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004)
+  Location: SF / NY
+  Posted: 2026-09-22
+  ────────────────────────────────────────
+  Company: Palantir
+  Role: Product Designer, Internship – US Government
+    (https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d)
+  Location: NY, onsite
+  Posted: 2025-08-12
+  ────────────────────────────────────────
+  Company: Palantir
+  Role: Product Designer, New Grad – US Government
+    (https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02)
+  Location: NY, hybrid
+  Posted: 2024-11-21
+  ────────────────────────────────────────
+  Company: Palantir
+  Role: Product Designer, Internship
+    (https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6) / New
+    Grad (https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e)
+  Location: NY
+  Posted: 2019 / 2017
+
+  Mid-level (no seniority in the title)
+
+  Company: Figma
+  Role: Product Designer, Core Experience
+    (https://boards.greenhouse.io/figma/jobs/6231027004?gh_jid=6231027004)
+  Location: SF / NY
+  Posted: 2026-10-26
+  ────────────────────────────────────────
+  Company: Figma
+  Role: Brand Designer, Web
+    (https://boards.greenhouse.io/figma/jobs/6216211004?gh_jid=6216211004)
+  Location: SF / NY
+  Posted: 2026-10-08
+  ────────────────────────────────────────
+  Company: Figma
+  Role: Product Designer, CMS
+    (https://boards.greenhouse.io/figma/jobs/6126976004?gh_jid=6126976004)
+  Location: SF / NY
+  Posted: 2026-07-29
+  ────────────────────────────────────────
+  Company: Figma
+  Role: Product Designer, AI Models
+    (https://boards.greenhouse.io/figma/jobs/5711913004?gh_jid=5711913004) /
+    Growth & Monetization
+    (https://boards.greenhouse.io/figma/jobs/5711595004?gh_jid=5711595004)
+  Location: SF / NY
+  Posted: 2025-11-21
+  ────────────────────────────────────────
+  Company: Pinterest
+  Role: Motion Designer, PPM SMB
+    (https://www.pinterestcareers.com/jobs/?gh_jid=8268342)
+  Location: Remote US
+  Posted: 2026-11-03
+  ────────────────────────────────────────
+  Company: Pinterest
+  Role: Designer, PPM (https://www.pinterestcareers.com/jobs/?gh_jid=8268336)
+  Location: Remote US
+  Posted: 2026-10-24
+  ────────────────────────────────────────
+  Company: Notion
+  Role: Brand Designer, Creative Studio
+    (https://jobs.ashbyhq.com/notion/59f2246d-9cb5-4e97-879e-46c902dc276a)
+  Location: NY, hybrid
+  Posted: 2026-09-03
+  ────────────────────────────────────────
+  Company: Linear
+  Role: Mobile Product Designer
+    (https://jobs.ashbyhq.com/linear/eac7f181-d658-4943-9430-51bae2bcd110)
+  Location: Remote, North America
+  Posted: 2026-08-03
+  ────────────────────────────────────────
+  Company: Linear
+  Role: Production Designer
+    (https://jobs.ashbyhq.com/linear/b32de590-06ce-47d4-8994-66b936df908d)
+  Location: Remote, North America
+  Posted: 2026-08-06
+  ────────────────────────────────────────
+  Company: Palantir
+  Role: Web Design Engineer
+    (https://jobs.lever.co/palantir/a3eaa0ef-3378-495f-8308-edbd9a93d26c)
+  Location: NY, hybrid
+  Posted: 2026-06-23
+  ────────────────────────────────────────
+  Company: Palantir
+  Role: Product Designer – US Government
+    (https://jobs.lever.co/palantir/c2d11af1-5b84-4be0-92ac-36113fb8f2b5)
+  Location: NY, hybrid
+  Posted: 2025-04-03
+
+  Senior / Staff
+
+  Company: Pinterest
+  Role: Sr. Product Designer – Measurement, Data & AI
+    (https://www.pinterestcareers.com/jobs/?gh_jid=8249279)
+  Location: Remote US
+  Posted: 2026-11-06
+  ────────────────────────────────────────
+  Company: Pinterest
+  Role: Staff Motion Designer, Design Innovation
+    (https://www.pinterestcareers.com/jobs/?gh_jid=8302281)
+  Location: Remote US
+  Posted: 2026-10-30
+  ────────────────────────────────────────
+  Company: Pinterest
+  Role: Sr. UX Engineer (https://www.pinterestcareers.com/jobs/?gh_jid=8015362)
+  Location: Remote US
+  Posted: 2026-10-28
+  ────────────────────────────────────────
+  Company: Spotify
+  Role: Senior Digital Learning Experience Designer
+    (https://jobs.lever.co/spotify/9d1c90b5-a8a4-4218-b2f3-7bbaefae7fd1)
+  Location: NY, hybrid (HR team)
+  Posted: 2026-09-17
+  ────────────────────────────────────────
+  Company: Duolingo
+  Role: Staff Product Designer, Monetization
+    (https://careers.duolingo.com/jobs/8729596002?gh_jid=8729596002)
+  Location: NY / Pittsburgh
+  Posted: 2026-08-25
+  ────────────────────────────────────────
+  Company: Duolingo
+  Role: Senior Product Designer
+    (https://careers.duolingo.com/jobs/8489189002?gh_jid=8489189002)
+  Location: NY / Pittsburgh
+  Posted: 2026-04-01
+  ────────────────────────────────────────
+  Company: Linear
+  Role: Senior / Staff Product Designer
+    (https://jobs.ashbyhq.com/linear/a264869e-f058-487c-ab7f-9b77dffa427c)
+  Location: Remote, North America
+  Posted: 2026-04-23
+  ────────────────────────────────────────
+  Company: Spotify
+  Role: Staff Product Designer – Platform Design
+    (https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae)
+  Location: London, "permanent remote"
+  Posted: 2026-10-21
+
+  Leadership
+
+  ┌───────┬───────────────────────────────────────────────┬────────┬────────┐
+  │ Compa │                     Role                      │ Locati │ Posted │
+  │  ny   │                                               │   on   │        │
+  ├───────┼───────────────────────────────────────────────┼────────┼────────┤
+  │       │ Director, Product Design – AI & Context       │ SF /   │ 2026-0 │
+  │ Figma │ (https://boards.greenhouse.io/figma/jobs/6201 │ NY     │ 9-22   │
+  │       │ 114004?gh_jid=6201114004)                     │        │        │
+  ├───────┼───────────────────────────────────────────────┼────────┼────────┤
+  │       │ Manager, Design – Systems & Infrastructure    │ SF /   │ 2026-0 │
+  │ Figma │ (https://boards.greenhouse.io/figma/jobs/6135 │ NY     │ 8-14   │
+  │       │ 656004?gh_jid=6135656004)                     │        │        │
+  ├───────┼───────────────────────────────────────────────┼────────┼────────┤
+  │ Duoli │ VP of Learning Design (https://careers.duolin │ NY /   │ 2026-1 │
+  │ ngo   │ go.com/jobs/8929982002?gh_jid=8929982002)     │ Pittsb │ 1-04   │
+  │       │                                               │ urgh   │        │
+  └───────┴───────────────────────────────────────────────┴────────┴────────┘
+
+  Check before you plan around these:
+  - Old Palantir posts: the listings dated 2017–2019 have probably been left
+    open on purpose to collect applications all year. They tell you Palantir
+    hires interns and new grads every year, not that a specific spot is open.
+    The 2024–25 government-team posts may be similar.
+  - Spotify Staff role: it's based in London. "Remote" there likely means remote
+    within the UK or Europe, not New York.
+  - Linear Production Designer: there is also a Europe-only version of this
+    post. I listed only the North America one.
+  - Hidden posts: my first, broader search found 46 postings but showed only the
+    newest 30. I narrowed the keywords until the results fit, and the list
+    above should cover all the real design roles. Most of the 46 were noise:
+    recruiting, a data engineer, and Figma engineering-manager roles that just
+    had "Design Systems" or "UX" in the title.
+  - Research roles: UX research is close to design, but I left it out. A few
+    showed up: Figma Researcher (NY), Pinterest Staff Qualitative UX Researcher
+    (remote) and a Pinterest UX Quantitative Research Intern (remote/NY).
+
+  What this suggests for your portfolio:
+  - Product design has the most openings, mostly at Figma, Duolingo, Linear and
+    Pinterest. Most of those openings are about AI, monetization and growth.
+  - Brand and motion design have a smaller but steady set of openings (Figma,
+    Notion, Pinterest, Linear).
+  - Design-engineering hybrids also show up (Pinterest UX Engineer, Palantir Web
+    Design Engineer).
+
+  These are live listings, so roles at the next cycle's 2027 intern and
+  early-career level will mostly open around the same time next year. Figma's
+  are already posted.
+
+✻ Crunched for 56s · done 1:59 PM
+
+❯ Leave out research, writing, and management roles. I only care about roles    
+  where you actually design and make things.                                    
+
+⏺ Here's the list with leadership roles taken out. Research was already
+  excluded, and none of the roles were pure writing jobs. That leaves 22 roles
+  where you design and make things. Staff-level roles are still
+  individual-contributor work, so I kept them.
+
+  Internship / early career
+
+  Company: Figma
+  Role: Product Design Intern (2027)
+    (https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004)
+  Location: SF / NY
+  Posted: 2026-09-14
+  ────────────────────────────────────────
+  Company: Figma
+  Role: Early Career, Product Designer (2027)
+    (https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004)
+  Location: SF / NY
+  Posted: 2026-09-22
+  ────────────────────────────────────────
+  Company: Palantir
+  Role: Product Designer, Internship – US Government
+    (https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d)
+  Location: NY, onsite
+  Posted: 2025-08-12
+  ────────────────────────────────────────
+  Company: Palantir
+  Role: Product Designer, New Grad – US Government
+    (https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02)
+  Location: NY, hybrid
+  Posted: 2024-11-21
+  ────────────────────────────────────────
+  Company: Palantir
+  Role: Product Designer, Internship
+    (https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6) / New
+    Grad (https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e)
+  Location: NY
+  Posted: 2019 / 2017 (left open to collect applications)
+
+  Mid-level
+
+  Company: Figma
+  Role: Product Designer, Core Experience
+    (https://boards.greenhouse.io/figma/jobs/6231027004?gh_jid=6231027004)
+  Location: SF / NY
+  Posted: 2026-10-26
+  ────────────────────────────────────────
+  Company: Figma
+  Role: Brand Designer, Web
+    (https://boards.greenhouse.io/figma/jobs/6216211004?gh_jid=6216211004)
+  Location: SF / NY
+  Posted: 2026-10-08
+  ────────────────────────────────────────
+  Company: Figma
+  Role: Product Designer, CMS
+    (https://boards.greenhouse.io/figma/jobs/6126976004?gh_jid=6126976004)
+  Location: SF / NY
+  Posted: 2026-07-29
+  ────────────────────────────────────────
+  Company: Figma
+  Role: Product Designer, AI Models
+    (https://boards.greenhouse.io/figma/jobs/5711913004?gh_jid=5711913004) /
+    Growth & Monetization
+    (https://boards.greenhouse.io/figma/jobs/5711595004?gh_jid=5711595004)
+  Location: SF / NY
+  Posted: 2025-11-21
+  ────────────────────────────────────────
+  Company: Pinterest
+  Role: Motion Designer, PPM SMB
+    (https://www.pinterestcareers.com/jobs/?gh_jid=8268342)
+  Location: Remote US
+  Posted: 2026-11-03
+  ────────────────────────────────────────
+  Company: Pinterest
+  Role: Designer, PPM (https://www.pinterestcareers.com/jobs/?gh_jid=8268336)
+  Location: Remote US
+  Posted: 2026-10-24
+  ────────────────────────────────────────
+  Company: Notion
+  Role: Brand Designer, Creative Studio
+    (https://jobs.ashbyhq.com/notion/59f2246d-9cb5-4e97-879e-46c902dc276a)
+  Location: NY, hybrid
+  Posted: 2026-09-03
+  ────────────────────────────────────────
+  Company: Linear
+  Role: Mobile Product Designer
+    (https://jobs.ashbyhq.com/linear/eac7f181-d658-4943-9430-51bae2bcd110)
+  Location: Remote, North America
+  Posted: 2026-08-03
+  ────────────────────────────────────────
+  Company: Linear
+  Role: Production Designer
+    (https://jobs.ashbyhq.com/linear/b32de590-06ce-47d4-8994-66b936df908d)
+  Location: Remote, North America
+  Posted: 2026-08-06
+  ────────────────────────────────────────
+  Company: Palantir
+  Role: Web Design Engineer
+    (https://jobs.lever.co/palantir/a3eaa0ef-3378-495f-8308-edbd9a93d26c)
+  Location: NY, hybrid
+  Posted: 2026-06-23
+  ────────────────────────────────────────
+  Company: Palantir
+  Role: Product Designer – US Government
+    (https://jobs.lever.co/palantir/c2d11af1-5b84-4be0-92ac-36113fb8f2b5)
+  Location: NY, hybrid
+  Posted: 2025-04-03
+
+  Senior / Staff
+
+  Company: Pinterest
+  Role: Sr. Product Designer – Measurement, Data & AI
+    (https://www.pinterestcareers.com/jobs/?gh_jid=8249279)
+  Location: Remote US
+  Posted: 2026-11-06
+  ────────────────────────────────────────
+  Company: Pinterest
+  Role: Staff Motion Designer, Design Innovation
+    (https://www.pinterestcareers.com/jobs/?gh_jid=8302281)
+  Location: Remote US
+  Posted: 2026-10-30
+  ────────────────────────────────────────
+  Company: Pinterest
+  Role: Sr. UX Engineer (https://www.pinterestcareers.com/jobs/?gh_jid=8015362)
+  Location: Remote US
+  Posted: 2026-10-28
+  ────────────────────────────────────────
+  Company: Duolingo
+  Role: Staff Product Designer, Monetization
+    (https://careers.duolingo.com/jobs/8729596002?gh_jid=8729596002)
+  Location: NY / Pittsburgh
+  Posted: 2026-08-25
+  ────────────────────────────────────────
+  Company: Duolingo
+  Role: Senior Product Designer
+    (https://careers.duolingo.com/jobs/8489189002?gh_jid=8489189002)
+  Location: NY / Pittsburgh
+  Posted: 2026-04-01
+  ────────────────────────────────────────
+  Company: Linear
+  Role: Senior / Staff Product Designer
+    (https://jobs.ashbyhq.com/linear/a264869e-f058-487c-ab7f-9b77dffa427c)
+  Location: Remote, North America
+  Posted: 2026-04-23
+  ────────────────────────────────────────
+  Company: Spotify
+  Role: Staff Product Designer – Platform Design
+    (https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae)
+  Location: London, "permanent remote" (likely UK/EU only)
+  Posted: 2026-10-21
+
+  What I removed:
+  - Management: Figma's Director, Product Design – AI & Context; Figma's
+    Manager, Design – Systems & Infrastructure; and Duolingo's VP of Learning
+    Design.
+  - Spotify Senior Digital Learning Experience Designer: it sits on the HR team
+    and is about learning and development. That usually means designing courses
+    and writing training content, not making visuals or products. If you want it
+    back, open the posting and check how much of the work is visual or
+    interactive.
+
+  Your portfolio should probably show product design work: shipped flows and how
+  you got there, especially for AI, data or monetization features. That's what
+  most of these roles ask for. Brand and motion pieces (Figma, Notion,
+  Pinterest, Linear) and a coded or interactive project (Pinterest UX Engineer,
+  Palantir Web Design Engineer) are good secondary pieces.
+
+✻ Sautéed for 21s · done 2:01 PM
+
+❯ Also drop anything senior, staff, lead or principal. I'm a student, so I want 
+  roles I could realistically grow into in two or three years.                  
+
+⏺ Here's the list with every Senior, Staff, Lead and Principal role removed.
+  There were no Lead or Principal titles to begin with. That leaves 15 roles.
+
+  Internships and new-grad roles you could apply to soon
+
+  Company: Figma
+  Role: Product Design Intern (2027)
+    (https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004)
+  Location: SF / NY
+  Posted: 2026-09-14
+  ────────────────────────────────────────
+  Company: Figma
+  Role: Early Career, Product Designer (2027)
+    (https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004)
+  Location: SF / NY
+  Posted: 2026-09-22
+  ────────────────────────────────────────
+  Company: Palantir
+  Role: Product Designer, Internship – US Government
+    (https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d)
+  Location: NY, onsite
+  Posted: 2025-08-12
+  ────────────────────────────────────────
+  Company: Palantir
+  Role: Product Designer, New Grad – US Government
+    (https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02)
+  Location: NY, hybrid
+  Posted: 2024-11-21
+  ────────────────────────────────────────
+  Company: Palantir
+  Role: Product Designer, Internship
+    (https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6) / New
+    Grad (https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e)
+  Location: NY
+  Posted: 2019 / 2017 (left open to collect applications)
+
+  Mid-level roles to aim for in 2–3 years
+
+  Company: Figma
+  Role: Product Designer, Core Experience
+    (https://boards.greenhouse.io/figma/jobs/6231027004?gh_jid=6231027004)
+  Location: SF / NY
+  Posted: 2026-10-26
+  ────────────────────────────────────────
+  Company: Figma
+  Role: Brand Designer, Web
+    (https://boards.greenhouse.io/figma/jobs/6216211004?gh_jid=6216211004)
+  Location: SF / NY
+  Posted: 2026-10-08
+  ────────────────────────────────────────
+  Company: Figma
+  Role: Product Designer, CMS
+    (https://boards.greenhouse.io/figma/jobs/6126976004?gh_jid=6126976004)
+  Location: SF / NY
+  Posted: 2026-07-29
+  ────────────────────────────────────────
+  Company: Figma
+  Role: Product Designer, AI Models
+    (https://boards.greenhouse.io/figma/jobs/5711913004?gh_jid=5711913004) /
+    Growth & Monetization
+    (https://boards.greenhouse.io/figma/jobs/5711595004?gh_jid=5711595004)
+  Location: SF / NY
+  Posted: 2025-11-21
+  ────────────────────────────────────────
+  Company: Pinterest
+  Role: Motion Designer, PPM SMB
+    (https://www.pinterestcareers.com/jobs/?gh_jid=8268342)
+  Location: Remote US
+  Posted: 2026-11-03
+  ────────────────────────────────────────
+  Company: Pinterest
+  Role: Designer, PPM (https://www.pinterestcareers.com/jobs/?gh_jid=8268336)
+  Location: Remote US
+  Posted: 2026-10-24
+  ────────────────────────────────────────
+  Company: Notion
+  Role: Brand Designer, Creative Studio
+    (https://jobs.ashbyhq.com/notion/59f2246d-9cb5-4e97-879e-46c902dc276a)
+  Location: NY, hybrid
+  Posted: 2026-09-03
+  ────────────────────────────────────────
+  Company: Linear
+  Role: Mobile Product Designer
+    (https://jobs.ashbyhq.com/linear/eac7f181-d658-4943-9430-51bae2bcd110)
+  Location: Remote, North America
+  Posted: 2026-08-03
+  ────────────────────────────────────────
+  Company: Linear
+  Role: Production Designer
+    (https://jobs.ashbyhq.com/linear/b32de590-06ce-47d4-8994-66b936df908d)
+  Location: Remote, North America
+  Posted: 2026-08-06
+  ────────────────────────────────────────
+  Company: Palantir
+  Role: Web Design Engineer
+    (https://jobs.lever.co/palantir/a3eaa0ef-3378-495f-8308-edbd9a93d26c)
+  Location: NY, hybrid
+  Posted: 2026-06-23
+  ────────────────────────────────────────
+  Company: Palantir
+  Role: Product Designer – US Government
+    (https://jobs.lever.co/palantir/c2d11af1-5b84-4be0-92ac-36113fb8f2b5)
+  Location: NY, hybrid
+  Posted: 2025-04-03
+
+  Two things to check before relying on this:
+  - Unstated seniority: I sorted these by title only, and I haven't opened the
+    postings. A title with no level can still ask for several years of
+    experience. That's common at Linear, which hires few people and leans
+    experienced. Check each posting's requirements to see whether it really fits
+    a 2–3 year plan.
+  - Palantir government roles: these may come with citizenship or
+    security-clearance requirements. The search results don't say, so check the
+    postings.
+
+  Now that the senior roles are gone, all the portfolio pieces still point the
+  same way, just at an earlier-career level:
+  - Product design is the core. Have 2–3 case studies that show your process
+    from the problem to the shipped or prototyped result. This matches Figma's
+    early-career role and most of the mid-level product roles.
+  - Brand and motion work helps for the Figma, Notion, Pinterest and Linear
+    Production Designer roles.
+  - One coded or interactive project helps for the Palantir Web Design Engineer
+    role, and it stands out on product applications too.
+
+✻ Churned for 20s · done 2:02 PM
+
+❯ Based only on these postings, what three skills should my portfolio show?     
+
+⏺ I can only partly answer this. The search tool returns titles, teams and
+  locations, not the full job descriptions, so I haven't seen what any of these
+  postings actually require. Going by the 15 titles alone:
+
+  1. Product design: designing software features from start to finish. About 11
+     of the 15 roles are Product Designer roles: all the Palantir roles, Figma's
+     intern, early-career, Core Experience, CMS, AI Models and Growth &
+     Monetization roles, and Linear's Mobile Product Designer. This is clearly
+     what your portfolio should lead with. The team names hint at areas worth
+     covering: AI, growth/monetization, content tools (CMS) and mobile.
+  2. Brand and motion design. Figma Brand Designer (Web), Notion Brand Designer,
+     Pinterest Motion Designer and Linear Production Designer, which sits in
+     Linear's Creative Studio team. That's about 4 of the 15. It's a clear
+     secondary track. Pinterest's "Designer, PPM" might also fit here, but the
+     title doesn't say what PPM means.
+  3. Designing in code or for the web. This signal is much weaker. Only
+     Palantir's Web Design Engineer is clearly a coding role, and Figma's Brand
+     Designer role is web-focused. I'm including it because it fits both of the
+     other areas, but two titles don't prove much demand.
+
+  If you want an answer that's really based on the postings, I can read all 15
+  descriptions. I'd pull out the skills, tools and portfolio requirements they
+  list and count how often each comes up. That would also show which mid-level
+  roles quietly ask for years of experience.
+
+✻ Baked for 16s · done 2:03 PM
