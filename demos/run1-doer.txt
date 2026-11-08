@@ -1,0 +1,186 @@
+▗ ▗   ▖ ▖  Claude Code v2.1.319
+           Opus 5.5 · Claude Max
+ ▘▘   ▝▝   ~/Documents/GitHub/agent-toolkit
+
+  Get to finished work sooner with Opus 5.5. Switch anytime with /model.
+  1 more notice hidden
+
+❯ /model 
+  ⎿  Kept model as Opus 5.5 (default)
+
+❯ I'm a design student at CMU (School of Design, Environments track) looking    
+  for a summer 2027 internship. What design internships are open right now?     
+
+  Called design-jobs (ctrl+o to expand)
+
+⏺ I searched the live job boards of the 12 companies in your companies.csv
+  (Airbnb, Palantir, Linear, Figma, Pinterest, Dropbox, Spotify, Notion,
+  Duolingo, Discord, Peloton, IDEO). I found 2 internships worth looking at.
+  None of them is an Environments role.
+
+  Good fits
+  - Figma: Product Design Intern (2027), SF or NYC, posted Sep 14, 2026. This is
+    the only posting that clearly targets summer 2027. Apply
+    (https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004)
+  - Palantir: Product Designer, Internship (US Government), Palo Alto, onsite,
+    posted Jul 31, 2026. It doesn't name a year, so check that it's for
+    summer 2027. Apply
+    (https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a)
+
+  Probably skip
+  - Figma: PhD Intern, Software Engineer (Interaction Design): this is an
+    engineering role for PhD students.
+  - Palantir's other 4 design internship postings (NYC, DC, London) were posted
+    between 2019 and 2025. They're still on the board, but they're probably old
+    listings that were never taken down, not new openings.
+
+  What this search doesn't cover
+  - These results only come from the 12 companies in your list, and most of them
+    are product and tech companies. IDEO was searched and had no internships
+    posted.
+  - Studios that hire Environments students weren't searched at all. These
+    include exhibit, spatial, retail and experiential design firms, architecture
+    firms with experience design teams, and themed entertainment studios. "No
+    results" here doesn't mean those roles don't exist.
+
+  If you want Environments roles in the search, add those companies to
+  companies.csv with their Greenhouse, Lever or Ashby board names, and I'll run
+  it again. It's also worth checking CMU Handshake and School of Design
+  announcements, since many studios only post there.
+
+✻ Baked for 20s · done 1:28 PM
+
+※ recap: You're looking for a summer 2027 design internship, and searching your 12 listed companies turned up Figma's Product Design Intern (2027) and a possible Palantir design internship. Next step: add Environments-focused studios to companies.csv so I can search again. (disable recaps in /config)
+
+❯ I'm less interested in pure screen-based UI work. I want roles that involve   
+  physical prototyping, interactive installations, or hardware, something like  
+  a creative technologist or an interaction designer who builds things. Can you 
+  search again with that in mind?                                               
+
+  Called design-jobs 2 times (ctrl+o to expand)
+
+⏺ None of the 12 companies on your list has a hands-on, build-things internship
+  open right now.
+
+  What I searched: internships only, using the keywords creative technologist,
+  prototyping, interaction, installation, hardware, physical, industrial design,
+  experiential, spatial, exhibit and creative engineer.
+
+  - Only match: Figma's PhD Intern, Software Engineer – Interaction Design 
+    (2027) (link
+    (https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004)).
+    It's a software engineering role for PhD students, so it doesn't fit.
+  - Same search including full-time roles: two results, both unrelated. Airbnb
+    has a Staff Software Engineer job building their internal prototyping
+    software, and Palantir has a Physical Security Manager job. So these
+    companies mostly aren't hiring for this kind of work at any level, not just
+    for interns.
+
+  Why: your list is almost all software companies (Figma, Linear, Notion,
+  Discord and so on). Peloton is the only one that makes hardware, and IDEO had
+  nothing posted. This search can't tell you whether these roles exist
+  elsewhere.
+
+  Next step: add companies that do this kind of work to companies.csv. These are
+  types of employers to check, not confirmed openings:
+  - Experiential and installation studios: Local Projects, Breakfast, Moment
+    Factory, Superbright, Rockwell Group (LAB)
+  - Hardware and consumer product companies: Teenage Engineering, Sonos, Apple,
+    Google, Meta Reality Labs (AR/VR hardware)
+  - Design consultancies with prototyping shops: frog, Smart Design, Teague,
+    Fuseproject
+  - Themed entertainment: Walt Disney Imagineering, Meow Wolf
+
+  Many of these companies don't use Greenhouse, Lever or Ashby, so the tool
+  can't search their boards. For those, check their career pages directly, along
+  with Handshake and the School of Design and IDeATe channels at CMU. Studios
+  like these often post internships late in the year or only through school
+  networks.
+
+  If you tell me which of these you want to add, I can look up the board name
+  each one uses. Then you can add them to companies.csv and I'll run the search
+  again.
+
+✻ Brewed for 27s · done 1:42 PM
+
+❯ OK. Since nothing matches exactly, I'm open to design roles that are partly   
+  screen-based, as long as the product connects to physical objects or spaces,  
+  like hardware, devices, or venues. It also has to be in the US. Search again  
+  with that.                                                                    
+
+  Called design-jobs 2 times (ctrl+o to expand)
+
+⏺ Even with the looser criteria, none of the open US design internships at your
+  12 companies involves a product tied to physical objects or spaces.
+
+  I searched for design, designer, UX, interaction and creative internships.
+  Here are the US results that are actually open:
+
+  ┌───────────────────────────────────────┬─────────────────────────────────┐
+  │              Internship               │       Why it doesn't fit        │
+  ├───────────────────────────────────────┼─────────────────────────────────┤
+  │ Figma: Product Design Intern (2027),  │ Figma's product is all software │
+  │ SF / NYC                              │                                 │
+  ├───────────────────────────────────────┼─────────────────────────────────┤
+  │ Palantir: Product Designer Intern, US │ The listing doesn't say it      │
+  │  Government, Palo Alto                │ involves hardware, devices or   │
+  │                                       │ venues                          │
+  ├───────────────────────────────────────┼─────────────────────────────────┤
+  │ Pinterest: UX Quantitative Research   │ A research role at a software   │
+  │ Intern, Remote US / SF / Seattle /    │ company, not a design role      │
+  │ NYC                                   │                                 │
+  ├───────────────────────────────────────┼─────────────────────────────────┤
+  │ Figma: PhD Intern, SWE – Interaction  │ A PhD engineering role          │
+  │ Design (2027)                         │                                 │
+  └───────────────────────────────────────┴─────────────────────────────────┘
+
+  Palantir's 2019–2025 postings are still up, but they're probably old listings
+  that were never taken down.
+
+  I also searched full-time US design roles to see whether any of these
+  companies are hiring for this kind of work at all. Of the newest 30 (out of
+  51), none mentions hardware, devices or physical spaces. Peloton, the one
+  hardware company on your list, had no design roles in those 30. Airbnb, the
+  closest thing to "venues", had nothing design-related besides a UX writer job.
+
+  Your list is almost all software companies, so loosening the criteria can't
+  fix this. You'll get better results by adding companies whose products are
+  physical. Here are some to consider (I haven't checked whether they have
+  openings):
+
+  - Devices and hardware: Sonos, Meta Reality Labs, Google hardware, Amazon
+    devices, Rivian, Tesla, Oura, Whoop
+  - Venues and spaces: Disney Imagineering, Meow Wolf, Sphere Entertainment,
+    Universal Creative, and retail or hospitality companies with in-store design
+    teams
+
+  If you'd like, I can look up which of these use Greenhouse, Lever or Ashby.
+  Then you can add them to companies.csv and I'll run the search again.
+
+✻ Churned for 27s · done 1:43 PM
+
+❯ Got it. Even so, I need to apply to something this cycle. Give me your final  
+  top 3 picks to apply to, with one line each on why.                           
+
+⏺ None of these meets your physical-product criterion. All three are software
+  roles. Here are the best picks among what's actually open:
+
+  1. Figma: Product Design Intern (2027), SF / NYC (link
+     (https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004)).
+     It's the only posting that clearly targets summer 2027, and it's a real
+     product design internship.
+  2. Palantir: Product Designer, Internship, US Government, Palo Alto (link
+     (https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a)).
+     It's a current design internship (posted Jul 2026), but check with the
+     recruiter that it's for summer 2027 and what the work involves.
+  3. Pinterest: UX Quantitative Research Intern (USA), Remote / SF / Seattle /
+     NYC (link (https://www.pinterestcareers.com/jobs/?gh_jid=8140217)). This is
+     a weak third. It's research, not design, so only apply if you have some
+     data or analysis skills.
+
+  There's no strong third option, so don't spend much time on #3. Apply to Figma
+  and Palantir now, and put the rest of your effort into the hardware and venue
+  companies from my last message, plus CMU Handshake and IDeATe. Those are much
+  more likely to have the hands-on work you want.
+
+✻ Baked for 9s · done 1:45 PM

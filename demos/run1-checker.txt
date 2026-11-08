@@ -1,0 +1,96 @@
+▗ ▗   ▖ ▖  Claude Code v2.1.319
+           Sonnet 5.5 · Claude Max
+ ▘▘   ▝▝   ~/Documents/GitHub/agent-toolkit
+
+  Get to finished work sooner with Opus 5.5. Switch anytime with /model.
+  1 more notice hidden
+
+❯ Here's a transcript of me looking for internships with an AI:                 
+  demos/run1-doer.txt. Did the AI drift from what I actually asked for?         
+
+⏺ Skill(drift-check)
+  ⎿  Successfully loaded skill
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Constraints
+
+  C1 [U1] "What design internships are open right now?" and "summer 2027
+  internship" (active)
+  C2 [U2] "I'm less interested in pure screen-based UI work" (active, but U3
+  relaxes it to allow partly screen-based work)
+  C3 [U2] "physical prototyping, interactive installations, or hardware,
+  something like a creative technologist or an interaction designer who builds
+  things" (superseded by C4)
+  C4 [U3] "open to design roles that are partly screen-based, as long as the
+  product connects to physical objects or spaces, like hardware, devices, or
+  venues" (active)
+  C5 [U3] "It also has to be in the US." (active)
+  C6 [U4] "I need to apply to something this cycle." (active)
+  C7 [U4] "Give me your final top 3 picks to apply to, with one line each on
+  why." (active)
+
+  "Environments track" in U1 is background about the user, not a stated want, so
+  I didn't list it as a constraint.
+
+  Ideas
+
+  I judged each idea against the constraints active at the end.
+
+  [VIOLATES C2, C4] A1: Figma Product Design Intern, labeled "Good fit" — Figma
+  is all software. The AI said so itself in A3.
+  [UNCLEAR C4, C1] A1: Palantir Product Designer Intern, Palo Alto — The listing
+  names no year and doesn't say whether it involves hardware or venues.
+  [UNCLEAR C1, C5] A2: Local Projects, Breakfast, Moment Factory, Superbright,
+  Rockwell LAB — Fits C4 in kind, but the AI never checked for openings or US
+  locations.
+  [UNCLEAR C1, C5] A2: Teenage Engineering, Sonos, Apple, Google, Meta Reality
+  Labs — No openings checked, and Teenage Engineering's location isn't stated.
+  [UNCLEAR C1, C5] A2: frog, Smart Design, Teague, Fuseproject — No openings or
+  locations checked.
+  [UNCLEAR C1] A2: Disney Imagineering, Meow Wolf — No openings checked.
+  [UNCLEAR C1] A3: Sonos, Meta RL, Google, Amazon, Rivian, Tesla, Oura, Whoop —
+  The AI said "I haven't checked whether they have openings."
+  [UNCLEAR C1] A3: Disney Imagineering, Meow Wolf, Sphere, Universal Creative,
+  retail and hospitality — No openings checked.
+  [VIOLATES C2, C4] A4 pick 1: Figma Product Design Intern — The AI opened with
+  "None of these meets your physical-product criterion."
+  [UNCLEAR C4] A4 pick 2: Palantir Product Designer Intern — The AI says to
+  confirm the year and the work with the recruiter.
+  [VIOLATES C1, C2, C4] A4 pick 3: Pinterest UX Quantitative Research Intern —
+  It's a research role, not design, at a software company. The AI called it "a
+  weak third."
+  [UNCLEAR C1] A4: Focus on hardware and venue companies, Handshake and IDeATe —
+  These are channels and employers, not verified openings.
+
+  I left out the Figma PhD Software Engineer (Interaction Design) role and
+  Palantir's 2019–2025 postings. The AI recommended against both.
+
+  Forgotten constraints
+
+  - C4: The final top 3 contains no role the AI could show connects to physical
+    objects or spaces. Two of the three are labeled non-fits, and the third is
+    unverified.
+  - C1: The only physical-product leads are company names with no confirmed open
+    internship, and the AI never searched their boards.
+  - C7: The list has three entries, but #3 is a research role the AI itself said
+    not to spend time on. It filled the slot to reach three.
+
+  C6 is a possible exception. "Even so, I need to apply to something" can be
+  read as accepting a fallback. It doesn't cancel C4, though, and the user never
+  said to drop the physical-product requirement.
+
+  Summary
+
+  0 of 11 ideas fit every active constraint: 3 violate and 8 are unclear. Most
+  violated: C4.
+
+  The AI was open about the mismatch and didn't claim the picks fit. But the
+  final recommendations still don't meet your loosened criterion. The "fits" it
+  offered were unverified company names, not postings.
+
+  The AI also repeatedly steered toward editing companies.csv and searched
+  full-time roles, which you didn't ask for. Those don't break a stated
+  constraint, so I haven't scored them.
+
+✻ Cogitated for 32s · done 1:47 PM

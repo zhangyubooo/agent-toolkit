@@ -2,3 +2,12 @@ name,ats,slug
 Airbnb,greenhouse,airbnb
 Palantir,lever,palantir
 Linear,ashby,linear
+Figma,greenhouse,figma    # 145 jobs, 14 with 'design' (find_boards, 11/8)
+Pinterest,greenhouse,pinterest    # 168 jobs, 4 with 'design'
+Dropbox,greenhouse,dropbox    # 33 jobs, 0 with 'design'
+Spotify,lever,spotify    # 85 jobs, 3 with 'design'
+Notion,ashby,notion    # 154 jobs, 1 with 'design'
+Duolingo,greenhouse,duolingo    # 59 jobs, 5 with 'design'
+Discord,greenhouse,discord    # 27 jobs, 3 with 'design'
+Peloton,greenhouse,peloton    # 45 jobs, 1 with 'design'
+IDEO,greenhouse,ideo    # 9 jobs, 6 with 'design'
